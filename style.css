@@ -70,9 +70,9 @@ body{
 }
 .subscriber{
     
-    margin-left: 5%;
-    margin-right: 5%;
-    padding: 3%;
+    padding-left: 80px;
+    padding-right: 50px;
+    
 }
 .color{
     color: rgb(182, 177, 170);
@@ -83,4 +83,17 @@ body{
 }
 .background-color p{
     color: cornsilk;
+    padding-bottom: 5px;
+}
+
+.box{
+    border: 3px solid rgb(247, 236, 217);
+    margin-top: 8%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 5%;
+    background-color: rgb(245, 233, 210);
+    display: flex;
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    border-radius: 10px;
 }
