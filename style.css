@@ -76,6 +76,7 @@ body{
 }
 .color{
     color: rgb(182, 177, 170);
+    padding-top: 10px;
 }
 .background-color{
     text-align: center;
@@ -96,4 +97,8 @@ body{
     display: flex;
     box-shadow: 5px 5px 5px 5px gainsboro;
     border-radius: 10px;
+}
+.top
+{
+    padding-top: 5%;
 }
